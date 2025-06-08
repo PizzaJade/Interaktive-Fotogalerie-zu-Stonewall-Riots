@@ -1,0 +1,1 @@
+import{c as s,o as t,w as r,a,b as o,_ as c,T as i}from"./index-Dnudnxk7.js";const n="/assets/Gallerie3-SNbNcDZ_.jpg",m={__name:"Page17",setup(l){return(_,e)=>(t(),s(i,{name:"direction"},{default:r(()=>[a("div",null,[e[0]||(e[0]=a("img",{class:"bg-image",src:n,style:{"object-fit":"cover"}},null,-1)),o(c,{variant:"purple"})])]),_:1}))}};export{m as default};
