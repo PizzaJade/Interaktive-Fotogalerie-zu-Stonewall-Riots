@@ -1,0 +1,5 @@
+import{c as o,o as r,w as a,a as n,b as t,f as s,_ as i,T as l}from"./index-BIflbNd1.js";import{_ as u}from"./InteractonButton-DzAzobZR.js";const d="/Interaktive-Fotogalerie-zu-Stonewall-Riots/assets/Vor_Riots_2-BS3yOYd4.jpg",_={__name:"Page3",setup(m){return(c,e)=>(r(),o(l,{name:"direction"},{default:a(()=>[n("div",null,[e[0]||(e[0]=n("img",{class:"bg-image",src:d,style:{"object-fit":"cover"}},null,-1)),e[1]||(e[1]=n("h3",null,[s("Los Angeles, 1959."),n("br"),s("Die Razzien im Cooper Do-nuts")],-1)),t(u,{position:{insetInlineStart:"891px",insetBlockStart:"557px"},variant:"red",title:"Florida, 1956–1965.",subTitle:"Das Johns Committee",content1:`In den 1950ern versuchte die Polizei in Los Angeles, queere Menschen besonders Transpersonen, Drag Queens und queere People of Color
+grundlos zu verhaften. Als sie Gäste im beliebten „Cooper 
+Do-nuts“ mitnahmen, wehrte sich die Community spontan 
+mit Donuts, Kaffeebechern und 
+Müll ein früher Akt queeren Widerstands, lange vor Stonewall. Der Vorfall blieb lange kaum bekannt, war aber ein bedeutender Wendepunkt.`}),t(i,{variant:"red"})])]),_:1}))}};export{_ as default};
